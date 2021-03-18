@@ -1,0 +1,12 @@
+Info
+
+Swagger for API
+https://us-central1-rushmaid-test.cloudfunctions.net/app/docs/#/
+
+Todo
+
+1. Make custom working checkbox like shown in UI
+2. Make Collapsing tabs like shown in UI
+3. Get Extra Services from API and fill in components 
+
+
